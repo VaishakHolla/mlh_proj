@@ -1,23 +1,37 @@
 import logo from './logo.svg';
 import './App.css';
+//theme
+import "primereact/resources/themes/lara-light-indigo/theme.css";
+//core
+import "primereact/resources/primereact.min.css";
+//icons
+import "primeicons/primeicons.css";
+import {BrowserRouter, Routes, Route} from 'react-router-dom';
+import ErrorPage from './pages/error-page';
+import Navigation from './components/navigation';
+import Home from './pages/home';
+import Visualization from './pages/visualization';
+import Analysis from './pages/analysis';
+import Sources from './pages/sources';
+import About from './pages/about';
+import Contact from './pages/contact';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navigation/>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About/>}/>
+          <Route path="/contact" element={<Contact/>}/>
+          <Route path="/viz" element={<Visualization/>}/>
+          <Route path="/analysis" element={<Analysis/>}/>
+          <Route path="/sources" element={<Sources/>}/>
+
+          <Route exact={true} path="*" element={<ErrorPage />} />
+          </Routes>
+          </BrowserRouter>
     </div>
   );
 }
