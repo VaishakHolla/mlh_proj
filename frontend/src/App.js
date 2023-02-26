@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 //theme
-import "primereact/resources/themes/lara-light-indigo/theme.css";
+import "primereact/resources/themes/lara-dark-blue/theme.css";
 //core
 import "primereact/resources/primereact.min.css";
 //icons
