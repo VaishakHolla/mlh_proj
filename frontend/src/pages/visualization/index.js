@@ -32,7 +32,7 @@ const initialStyle = {
     latitude: 39.173388,
     zoom: 11.9,
     minZoom: 5,
-    maxZoom: 15,
+    maxZoom: 25,
     pitch: 45,
     bearing: 0,
   };
@@ -40,6 +40,7 @@ const initialStyle = {
 
 const BLUE = [23, 184, 190];
 const RED = [253, 128, 93];
+const GREEN =[153,255,51]
 
 
 const Visualization = () => {
@@ -54,8 +55,19 @@ const Visualization = () => {
     const threshold = 0.03;
     const radiusPixels = 30;
     
-    const [time, setTime] = useState(0);
+    const [time, setTime] = useState(455);
     
+    // getColor=(d)=>{
+    //     switch(d){
+
+    //     case 0: return RED;
+    //             break;
+    //     case 1: return BLUE;
+    //             break;
+    //     case 2: return GREEN;
+    //             break;
+    //     }  
+    // }
     useEffect(() => {
       const interval = setInterval(() => {
           
