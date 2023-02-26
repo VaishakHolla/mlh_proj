@@ -64,6 +64,7 @@ const Visualization = () => {
     
       return () => clearInterval(interval);
     }, []);
+    console.log(time)
     const layers = [
       new TripsLayer({
         id: 'trips',
@@ -77,18 +78,18 @@ const Visualization = () => {
         trailLength: 10,
         currentTime: time,
       }),
-        new IconLayer({
-          id:'icons',
-          data:ROUTES,
-          pickable: true,
-          iconAtlas: 'https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/icon-atlas.png',
-          iconMapping: ICON_MAPPING,
-          getIcon: d => 'marker',
-          sizeScale: 6,
-          getPosition: d => d.coordinates,
-          getSize: d => 2,
-          getColor: d => [Math.sqrt(d.exits), 140, 0]
-        }),
+        // new IconLayer({
+        //   id:'icons',
+        //   data:ROUTES,
+        //   pickable: true,
+        //   iconAtlas: 'https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/icon-atlas.png',
+        //   iconMapping: ICON_MAPPING,
+        //   getIcon: d => 'marker',
+        //   sizeScale: 6,
+        //   getPosition: d => d.coordinates,
+        //   getSize: d => 2,
+        //   getColor: d => [Math.sqrt(d.exits), 140, 0]
+        // }),
       
         // new HeatmapLayer({
         //   heat_data,
