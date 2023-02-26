@@ -1,0 +1,749 @@
+[
+    {
+      "stop_id": "ESTELAY",
+      "stop_name": "ESTE AVE LAYOVER",
+      "stop_desc": "",
+      "stop_code": 6029,
+      "stop_sequence": 1,
+      "stop_lat": 39.194786,
+      "stop_lon": -84.489907
+    },
+    {
+      "stop_id": "EST6325w",
+      "stop_name": "ESTE AVE 6325",
+      "stop_desc": "",
+      "stop_code": 5763,
+      "stop_sequence": 2,
+      "stop_lat": 39.194536,
+      "stop_lon": -84.490129
+    },
+    {
+      "stop_id": "EST6210i",
+      "stop_name": "ESTE AVE 6210",
+      "stop_desc": "ESTE AVE & DILLWARD PL",
+      "stop_code": 5761,
+      "stop_sequence": 3,
+      "stop_lat": 39.192367,
+      "stop_lon": -84.492569
+    },
+    {
+      "stop_id": "ESTCENi",
+      "stop_name": "ESTE AVE & CENTER HILL AVE",
+      "stop_desc": "",
+      "stop_code": 5758,
+      "stop_sequence": 4,
+      "stop_lat": 39.188251,
+      "stop_lon": -84.497731
+    },
+    {
+      "stop_id": "EST5753i",
+      "stop_name": "ESTE AVE 5723",
+      "stop_desc": "5723 ESTE AVE & CENTER HILL AVE",
+      "stop_code": 5755,
+      "stop_sequence": 5,
+      "stop_lat": 39.186885,
+      "stop_lon": -84.499342
+    },
+    {
+      "stop_id": "EST5265i",
+      "stop_name": "ESTE AVE 5265",
+      "stop_desc": "ESTE AVE & WINNESTE AVE",
+      "stop_code": 5446,
+      "stop_sequence": 6,
+      "stop_lat": 39.182564,
+      "stop_lon": -84.504444
+    },
+    {
+      "stop_id": "ESTESTi",
+      "stop_name": "ESTE AVE & ESTECREEK RD",
+      "stop_desc": "",
+      "stop_code": 5445,
+      "stop_sequence": 7,
+      "stop_lat": 39.181224,
+      "stop_lon": -84.506616
+    },
+    {
+      "stop_id": "EST4817i",
+      "stop_name": "ESTE AVE 4817",
+      "stop_desc": "",
+      "stop_code": 5442,
+      "stop_sequence": 8,
+      "stop_lat": 39.177877,
+      "stop_lon": -84.508435
+    },
+    {
+      "stop_id": "KIN414o",
+      "stop_name": "KINGS RUN DR 414",
+      "stop_desc": "414 KINGS RUN DR & EAST EPWORTH AVE",
+      "stop_code": 5441,
+      "stop_sequence": 9,
+      "stop_lat": 39.176868,
+      "stop_lon": -84.509486
+    },
+    {
+      "stop_id": "WINNKINe",
+      "stop_name": "WINNESTE AVE & KINGS RUN DR",
+      "stop_desc": "",
+      "stop_code": 5081,
+      "stop_sequence": 10,
+      "stop_lat": 39.178201,
+      "stop_lon": -84.510767
+    },
+    {
+      "stop_id": "WIN4830o",
+      "stop_name": "WINNESTE AVE 4830",
+      "stop_desc": "WINNESTE AVE & HEBRON CT",
+      "stop_code": 5086,
+      "stop_sequence": 11,
+      "stop_lat": 39.179759,
+      "stop_lon": -84.510447
+    },
+    {
+      "stop_id": "WIN4590o",
+      "stop_name": "WINNESTE AVE 4950",
+      "stop_desc": "WINNESTE AVE & EAST EPWORTH AVE",
+      "stop_code": 5089,
+      "stop_sequence": 12,
+      "stop_lat": 39.181132,
+      "stop_lon": -84.511593
+    },
+    {
+      "stop_id": "WINTOPo",
+      "stop_name": "WINNESTE AVE & TOPRIDGE PL",
+      "stop_desc": "WINNESTE AVE & EAST EPWORTH AVE",
+      "stop_code": 5091,
+      "stop_sequence": 13,
+      "stop_lat": 39.182006,
+      "stop_lon": -84.512236
+    },
+    {
+      "stop_id": "WIN5254o",
+      "stop_name": "WINNESTE AVE 5254",
+      "stop_desc": "WINNESTE AVE & EAST EPWORTH AVE",
+      "stop_code": 5102,
+      "stop_sequence": 14,
+      "stop_lat": 39.184771,
+      "stop_lon": -84.513875
+    },
+    {
+      "stop_id": "WIN5274i",
+      "stop_name": "WINNESTE AVE 5274",
+      "stop_desc": "WINNESTE AVE & VIEW PL",
+      "stop_code": 5104,
+      "stop_sequence": 15,
+      "stop_lat": 39.185538,
+      "stop_lon": -84.514472
+    },
+    {
+      "stop_id": "WINSTRo",
+      "stop_name": "WINNESTE AVE & STRAND LN",
+      "stop_desc": "",
+      "stop_code": 5108,
+      "stop_sequence": 16,
+      "stop_lat": 39.187126,
+      "stop_lon": -84.514509
+    },
+    {
+      "stop_id": "STRHOLi",
+      "stop_name": "STRAND LN & HOLLAND DR",
+      "stop_desc": "",
+      "stop_code": 5112,
+      "stop_sequence": 17,
+      "stop_lat": 39.187529,
+      "stop_lon": -84.51278
+    },
+    {
+      "stop_id": "STRDUTi",
+      "stop_name": "STRAND LN & DUTCH COLONY DR",
+      "stop_desc": "STRAND LN & BETTMAN DR",
+      "stop_code": 5117,
+      "stop_sequence": 18,
+      "stop_lat": 39.188556,
+      "stop_lon": -84.510631
+    },
+    {
+      "stop_id": "DUTBETi",
+      "stop_name": "DUTCH COLONY DRIVE & BETTMAN DR",
+      "stop_desc": "",
+      "stop_code": 5120,
+      "stop_sequence": 19,
+      "stop_lat": 39.189849,
+      "stop_lon": -84.512315
+    },
+    {
+      "stop_id": "DUTCWINi",
+      "stop_name": "DUTCH COLONY DR & WINNESTE AVE",
+      "stop_desc": "",
+      "stop_code": 5124,
+      "stop_sequence": 20,
+      "stop_lat": 39.190178,
+      "stop_lon": -84.514255
+    },
+    {
+      "stop_id": "DUTHEBo",
+      "stop_name": "DUTCH COLONY DR & HEBRON CT",
+      "stop_desc": "",
+      "stop_code": 5126,
+      "stop_sequence": 21,
+      "stop_lat": 39.190354,
+      "stop_lon": -84.517036
+    },
+    {
+      "stop_id": "DUTWINo",
+      "stop_name": "DUTCH COLONY DR & WINTON RIDGE LN",
+      "stop_desc": "",
+      "stop_code": 4660,
+      "stop_sequence": 22,
+      "stop_lat": 39.190513,
+      "stop_lon": -84.52011
+    },
+    {
+      "stop_id": "DUTWINTo",
+      "stop_name": "DUTCH COLONY DR & WINTON RD",
+      "stop_desc": "",
+      "stop_code": 4661,
+      "stop_sequence": 23,
+      "stop_lat": 39.190564,
+      "stop_lon": -84.523697
+    },
+    {
+      "stop_id": "WIN4981i",
+      "stop_name": "WINTON RD 4981",
+      "stop_desc": "WINTON RD & HEEKIN AVE",
+      "stop_code": 4658,
+      "stop_sequence": 24,
+      "stop_lat": 39.18431,
+      "stop_lon": -84.522544
+    },
+    {
+      "stop_id": "WINKINi",
+      "stop_name": "WINTON RD & KINGS RUN DR",
+      "stop_desc": "",
+      "stop_code": 4654,
+      "stop_sequence": 25,
+      "stop_lat": 39.181661,
+      "stop_lon": -84.520754
+    },
+    {
+      "stop_id": "WIN4879i",
+      "stop_name": "WINTON RD 4879",
+      "stop_desc": "WINTON RD & CHERRY BLOSSOM LN",
+      "stop_code": 4652,
+      "stop_sequence": 26,
+      "stop_lat": 39.180216,
+      "stop_lon": -84.520027
+    },
+    {
+      "stop_id": "WINGRAi",
+      "stop_name": "WINTON RD & GRAY RD",
+      "stop_desc": "",
+      "stop_code": 5077,
+      "stop_sequence": 27,
+      "stop_lat": 39.17634,
+      "stop_lon": -84.519767
+    },
+    {
+      "stop_id": "EPWBURi",
+      "stop_name": "EPWORTH AVE & BURR OAK ST",
+      "stop_desc": "",
+      "stop_code": 5067,
+      "stop_sequence": 28,
+      "stop_lat": 39.173363,
+      "stop_lon": -84.518288
+    },
+    {
+      "stop_id": "EPWEDGi",
+      "stop_name": "EPWORTH AVE & EDGEWOOD AVE",
+      "stop_desc": "EAST EPWORTH AVE",
+      "stop_code": 5065,
+      "stop_sequence": 29,
+      "stop_lat": 39.173269,
+      "stop_lon": -84.515767
+    },
+    {
+      "stop_id": "MIT4523i",
+      "stop_name": "MITCHELL AVE 4523",
+      "stop_desc": "4523 W MITCHELL AVE",
+      "stop_code": 5051,
+      "stop_sequence": 30,
+      "stop_lat": 39.169727,
+      "stop_lon": -84.514431
+    },
+    {
+      "stop_id": "MITSPRi",
+      "stop_name": "MITCHELL AVE & SPRING GROVE AVE",
+      "stop_desc": "W MITCHELL AVE",
+      "stop_code": 5046,
+      "stop_sequence": 31,
+      "stop_lat": 39.166614,
+      "stop_lon": -84.513937
+    },
+    {
+      "stop_id": "KENKROo",
+      "stop_name": "KENARD AVE & KROGER ENTRANCE",
+      "stop_desc": "",
+      "stop_code": 5033,
+      "stop_sequence": 32,
+      "stop_lat": 39.163812,
+      "stop_lon": -84.513327
+    },
+    {
+      "stop_id": "MITKESi",
+      "stop_name": "MITCHELL AVE & KESSLER AVE",
+      "stop_desc": "",
+      "stop_code": 5426,
+      "stop_sequence": 33,
+      "stop_lat": 39.161389,
+      "stop_lon": -84.506874
+    },
+    {
+      "stop_id": "MITVINi",
+      "stop_name": "MITCHELL AVE & VINE ST",
+      "stop_desc": "W MITCHELL AVE & E MITCHELL AVE",
+      "stop_code": 5420,
+      "stop_sequence": 34,
+      "stop_lat": 39.160418,
+      "stop_lon": -84.504902
+    },
+    {
+      "stop_id": "MITLEOi",
+      "stop_name": "MITCHELL AVE & LEONARD AVE",
+      "stop_desc": "E MITCHELL AVE",
+      "stop_code": 5424,
+      "stop_sequence": 35,
+      "stop_lat": 39.160935,
+      "stop_lon": -84.500906
+    },
+    {
+      "stop_id": "MITWESi",
+      "stop_name": "MITCHELL AVE &  WESS PARK DR",
+      "stop_desc": "E MITCHELL AVE & WESS PARK DR",
+      "stop_code": 5720,
+      "stop_sequence": 36,
+      "stop_lat": 39.160787,
+      "stop_lon": -84.499214
+    },
+    {
+      "stop_id": "MITGLEi",
+      "stop_name": "MITCHELL AVE & GLENCROSS AVE",
+      "stop_desc": "E MITCHELL AVE & GLENCROSS AVE",
+      "stop_code": 5718,
+      "stop_sequence": 37,
+      "stop_lat": 39.160645,
+      "stop_lon": -84.496913
+    },
+    {
+      "stop_id": "MITDICi",
+      "stop_name": "MITCHELL AVE & DICKSON AVE",
+      "stop_desc": "E MITCHELL AVE",
+      "stop_code": 5713,
+      "stop_sequence": 38,
+      "stop_lat": 39.160397,
+      "stop_lon": -84.49321
+    },
+    {
+      "stop_id": "MITARDi",
+      "stop_name": "MITCHELL AVE & ARDMORE AVE",
+      "stop_desc": "E MITCHELL AVE & ARDMORE AVE",
+      "stop_code": 5711,
+      "stop_sequence": 39,
+      "stop_lat": 39.160291,
+      "stop_lon": -84.491014
+    },
+    {
+      "stop_id": "MIT725i",
+      "stop_name": "MITCHELL AVE 725",
+      "stop_desc": "725 E MITCHELL AVE",
+      "stop_code": 5964,
+      "stop_sequence": 40,
+      "stop_lat": 39.159106,
+      "stop_lon": -84.488128
+    },
+    {
+      "stop_id": "MITROSi",
+      "stop_name": "MITCHELL AVE & ROSE HILL LN",
+      "stop_desc": "E MITCHELL AVE & ROSE HILL LN",
+      "stop_code": 5958,
+      "stop_sequence": 41,
+      "stop_lat": 39.157233,
+      "stop_lon": -84.485873
+    },
+    {
+      "stop_id": "CLIREAi",
+      "stop_name": "CLINTON SPRINGS AVE & READING ROAD",
+      "stop_desc": "CLINTON SPRINGS AVE & US 42",
+      "stop_code": 5944,
+      "stop_sequence": 42,
+      "stop_lat": 39.153879,
+      "stop_lon": -84.483733
+    },
+    {
+      "stop_id": "READANi",
+      "stop_name": "READING RD & DANA AVE",
+      "stop_desc": "",
+      "stop_code": 5942,
+      "stop_sequence": 43,
+      "stop_lat": 39.152736,
+      "stop_lon": -84.484398
+    },
+    {
+      "stop_id": "REABURi",
+      "stop_name": "READING RD & BURTON AVE",
+      "stop_desc": "",
+      "stop_code": 5937,
+      "stop_sequence": 44,
+      "stop_lat": 39.151817,
+      "stop_lon": -84.485518
+    },
+    {
+      "stop_id": "REAFREw",
+      "stop_name": "READING RD & FRED SHUTTLESWORTH CIR",
+      "stop_desc": "READING RD & GREENWOOD AVE",
+      "stop_code": 5931,
+      "stop_sequence": 45,
+      "stop_lat": 39.15063,
+      "stop_lon": -84.486942
+    },
+    {
+      "stop_id": "REAGHOi",
+      "stop_name": "READING RD & GHOLSON AVE",
+      "stop_desc": "",
+      "stop_code": 5926,
+      "stop_sequence": 46,
+      "stop_lat": 39.148866,
+      "stop_lon": -84.48836
+    },
+    {
+      "stop_id": "REAGLEi",
+      "stop_name": "READING RD & GLENWOOD AVE",
+      "stop_desc": "",
+      "stop_code": 5922,
+      "stop_sequence": 47,
+      "stop_lat": 39.147806,
+      "stop_lon": -84.489039
+    },
+    {
+      "stop_id": "REALEXi",
+      "stop_name": "READING RD & LEXINGTON AVE",
+      "stop_desc": "READING RD & GLENMANN LN",
+      "stop_code": 5920,
+      "stop_sequence": 48,
+      "stop_lat": 39.146319,
+      "stop_lon": -84.489906
+    },
+    {
+      "stop_id": "FORREAw",
+      "stop_name": "FOREST AVE & READING RD",
+      "stop_desc": "",
+      "stop_code": 5650,
+      "stop_sequence": 49,
+      "stop_lat": 39.14481,
+      "stop_lon": -84.491458
+    },
+    {
+      "stop_id": "FORWASo",
+      "stop_name": "FOREST AVE & WASHINGTON AVE",
+      "stop_desc": "",
+      "stop_code": 5658,
+      "stop_sequence": 50,
+      "stop_lat": 39.145942,
+      "stop_lon": -84.495032
+    },
+    {
+      "stop_id": "FOR430i",
+      "stop_name": "FOREST AVE 430",
+      "stop_desc": "",
+      "stop_code": 5662,
+      "stop_sequence": 51,
+      "stop_lat": 39.146208,
+      "stop_lon": -84.498162
+    },
+    {
+      "stop_id": "FOR330i",
+      "stop_name": "FOREST AVE 330",
+      "stop_desc": "",
+      "stop_code": 5388,
+      "stop_sequence": 52,
+      "stop_lat": 39.146412,
+      "stop_lon": -84.501175
+    },
+    {
+      "stop_id": "DURFORi",
+      "stop_name": "DURY AVE & FOREST AVE",
+      "stop_desc": "",
+      "stop_code": 5385,
+      "stop_sequence": 53,
+      "stop_lat": 39.146323,
+      "stop_lon": -84.505407
+    },
+    {
+      "stop_id": "DURHEAo",
+      "stop_name": "DURY AVE & HEARNE AVE",
+      "stop_desc": "DURY AVE & ERKENBRECHER AVE",
+      "stop_code": 5373,
+      "stop_sequence": 54,
+      "stop_lat": 39.142769,
+      "stop_lon": -84.505784
+    },
+    {
+      "stop_id": "ERKVINo",
+      "stop_name": "ERKENBRECHER & VINE",
+      "stop_desc": "ERKENBRECHER AVE & VINE ST",
+      "stop_code": 5367,
+      "stop_sequence": 55,
+      "stop_lat": 39.142455,
+      "stop_lon": -84.508493
+    },
+    {
+      "stop_id": "ZOO",
+      "stop_name": "Zoo",
+      "stop_desc": "VINE ST & LOUIS AVE",
+      "stop_code": 5357,
+      "stop_sequence": 56,
+      "stop_lat": 39.141392,
+      "stop_lon": -84.509718
+    },
+    {
+      "stop_id": "VINSHIo",
+      "stop_name": "VINE ST & SHIELDS ST",
+      "stop_desc": "VINE ST & E SHIELDS ST",
+      "stop_code": 5356,
+      "stop_sequence": 57,
+      "stop_lat": 39.140724,
+      "stop_lon": -84.509238
+    },
+    {
+      "stop_id": "ERKVINi",
+      "stop_name": "ERKENBRECHER AVE & VINE ST",
+      "stop_desc": "",
+      "stop_code": 5366,
+      "stop_sequence": 58,
+      "stop_lat": 39.142294,
+      "stop_lon": -84.508493
+    },
+    {
+      "stop_id": "ERKDURw",
+      "stop_name": "ERKENBRECHER AVE & DURY AVE",
+      "stop_desc": "",
+      "stop_code": 5364,
+      "stop_sequence": 59,
+      "stop_lat": 39.142135,
+      "stop_lon": -84.50576
+    },
+    {
+      "stop_id": "BURERKi",
+      "stop_name": "BURNET AVE & ERKENBRECHER AVE",
+      "stop_desc": "",
+      "stop_code": 5360,
+      "stop_sequence": 60,
+      "stop_lat": 39.142022,
+      "stop_lon": -84.500377
+    },
+    {
+      "stop_id": "BURCATw",
+      "stop_name": "BURNET AVE & CATHERINE ST",
+      "stop_desc": "",
+      "stop_code": 5353,
+      "stop_sequence": 61,
+      "stop_lat": 39.140969,
+      "stop_lon": -84.500504
+    },
+    {
+      "stop_id": "BURALBw",
+      "stop_name": "BURNET AVE & ALBERT SABIN WAY",
+      "stop_desc": "BURNET AVE & KASOTA ST",
+      "stop_code": 5349,
+      "stop_sequence": 62,
+      "stop_lat": 39.138801,
+      "stop_lon": -84.500736
+    },
+    {
+      "stop_id": "BURGOOi",
+      "stop_name": "BURNET AVE & GOODMAN ST",
+      "stop_desc": "",
+      "stop_code": 5336,
+      "stop_sequence": 63,
+      "stop_lat": 39.136704,
+      "stop_lon": -84.500968
+    },
+    {
+      "stop_id": "BURMLKi",
+      "stop_name": "BURNET AVE & M L KING DR",
+      "stop_desc": "BURNET AVE & E MARTIN LUTHER KING JR DR",
+      "stop_code": 5322,
+      "stop_sequence": 64,
+      "stop_lat": 39.135321,
+      "stop_lon": -84.501083
+    },
+    {
+      "stop_id": "HIGSTEi",
+      "stop_name": "HIGHLAND AVE & STETSON ST",
+      "stop_desc": "",
+      "stop_code": 5314,
+      "stop_sequence": 65,
+      "stop_lat": 39.134276,
+      "stop_lon": -84.502717
+    },
+    {
+      "stop_id": "HIGUNIi",
+      "stop_name": "HIGHLAND AVE & UNIVERSITY AVE",
+      "stop_desc": "",
+      "stop_code": 5301,
+      "stop_sequence": 66,
+      "stop_lat": 39.132295,
+      "stop_lon": -84.502925
+    },
+    {
+      "stop_id": "HIGOAKi",
+      "stop_name": "HIGHLAND AVE & OAK ST",
+      "stop_desc": "HIGHLAND AVE & FOSDICK ST",
+      "stop_code": 5286,
+      "stop_sequence": 67,
+      "stop_lat": 39.1311,
+      "stop_lon": -84.503052
+    },
+    {
+      "stop_id": "HIGTAFi",
+      "stop_name": "HIGHLAND AVE & TAFT RD",
+      "stop_desc": "",
+      "stop_code": 5273,
+      "stop_sequence": 68,
+      "stop_lat": 39.128637,
+      "stop_lon": -84.503319
+    },
+    {
+      "stop_id": "TAFEDEw",
+      "stop_name": "TAFT RD & EDEN AVE",
+      "stop_desc": "",
+      "stop_code": 5271,
+      "stop_sequence": 69,
+      "stop_lat": 39.128152,
+      "stop_lon": -84.506052
+    },
+    {
+      "stop_id": "TAFEUCw",
+      "stop_name": "TAFT RD & EUCLID AVE",
+      "stop_desc": "",
+      "stop_code": 5268,
+      "stop_sequence": 70,
+      "stop_lat": 39.12773,
+      "stop_lon": -84.509026
+    },
+    {
+      "stop_id": "VINMCMi",
+      "stop_name": "VINE ST & MCMILLAN ST",
+      "stop_desc": "",
+      "stop_code": 4934,
+      "stop_sequence": 71,
+      "stop_lat": 39.127687,
+      "stop_lon": -84.511397
+    },
+    {
+      "stop_id": "VINHOLi",
+      "stop_name": "VINE ST & HOLLISTER ST",
+      "stop_desc": "VINE ST & E HOLLISTER ST",
+      "stop_code": 4927,
+      "stop_sequence": 72,
+      "stop_lat": 39.126062,
+      "stop_lon": -84.512948
+    },
+    {
+      "stop_id": "VININWi",
+      "stop_name": "VINE ST & INWOOD PARK",
+      "stop_desc": "",
+      "stop_code": 4924,
+      "stop_sequence": 73,
+      "stop_lat": 39.12514,
+      "stop_lon": -84.51376
+    },
+    {
+      "stop_id": "VINTHIi",
+      "stop_name": "VINE ST & THILL ST",
+      "stop_desc": "VINE ST & POLK ST",
+      "stop_code": 4915,
+      "stop_sequence": 74,
+      "stop_lat": 39.123701,
+      "stop_lon": -84.514482
+    },
+    {
+      "stop_id": "VIN2121i",
+      "stop_name": "VINE ST 2121",
+      "stop_desc": "",
+      "stop_code": 4910,
+      "stop_sequence": 75,
+      "stop_lat": 39.12034,
+      "stop_lon": -84.516747
+    },
+    {
+      "stop_id": "VINCLIi",
+      "stop_name": "VINE ST & CLIFTON AVE",
+      "stop_desc": "VINE ST & E CLIFTON AVE",
+      "stop_code": 4901,
+      "stop_sequence": 76,
+      "stop_lat": 39.117966,
+      "stop_lon": -84.517293
+    },
+    {
+      "stop_id": "RACGLAi",
+      "stop_name": "RACE ST & GLASS ALY",
+      "stop_desc": "",
+      "stop_code": 4883,
+      "stop_sequence": 77,
+      "stop_lat": 39.114798,
+      "stop_lon": -84.5182
+    },
+    {
+      "stop_id": "RACLIBi",
+      "stop_name": "RACE ST & LIBERTY ST",
+      "stop_desc": "RACE ST & W 15TH ST",
+      "stop_code": 4875,
+      "stop_sequence": 78,
+      "stop_lat": 39.11272,
+      "stop_lon": -84.517661
+    },
+    {
+      "stop_id": "RAC14THi",
+      "stop_name": "RACE ST & 14TH ST",
+      "stop_desc": "RACE ST & W 13TH ST",
+      "stop_code": 4861,
+      "stop_sequence": 79,
+      "stop_lat": 39.11007,
+      "stop_lon": -84.517004
+    },
+    {
+      "stop_id": "RAC12THi",
+      "stop_name": "RACE ST & 12TH ST",
+      "stop_desc": "RACE ST & W 13TH ST",
+      "stop_code": 4834,
+      "stop_sequence": 80,
+      "stop_lat": 39.108143,
+      "stop_lon": -84.516512
+    },
+    {
+      "stop_id": "RACCOUi",
+      "stop_name": "RACE ST & COURT ST",
+      "stop_desc": "",
+      "stop_code": 4801,
+      "stop_sequence": 81,
+      "stop_lat": 39.106194,
+      "stop_lon": -84.516005
+    },
+    {
+      "stop_id": "7THVINi",
+      "stop_name": "7TH ST & VINE ST",
+      "stop_desc": "",
+      "stop_code": 1065,
+      "stop_sequence": 82,
+      "stop_lat": 39.103595,
+      "stop_lon": -84.513764
+    },
+    {
+      "stop_id": "GSqC",
+      "stop_name": "Government Square Area C",
+      "stop_desc": "5TH ST & WALNUT ST",
+      "stop_code": 1003,
+      "stop_sequence": 83,
+      "stop_lat": 39.10158,
+      "stop_lon": -84.510226
+    }
+   ]
